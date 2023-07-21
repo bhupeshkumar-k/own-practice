@@ -6,3 +6,4 @@ int sum(int a, int b)
 {
     printf("hello World");
 }
+hello
