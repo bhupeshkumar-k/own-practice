@@ -3,6 +3,4 @@ int sum(int a, int b)
 {
     return a+b;
 }
-{
-    printf("hello World");
-}
+
